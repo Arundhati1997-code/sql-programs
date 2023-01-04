@@ -1,0 +1,11 @@
+id,name,salary,doj,gender
+1,"Rajesh Shukla",65000.000,2020-03-20,NULL
+2,"Amar chauhan",56000.000,2021-04-11,NULL
+3,"Naina Chandrakant",78000.000,2021-05-12,NULL
+4,"Arundhati Raina",88000.000,2021-03-16,NULL
+5,"Sameer Maheshwari",94000.000,2019-04-20,NULL
+6,"Sameera Mahant",96000.000,2018-04-20,NULL
+7,"Saher Maheshwari",98000.000,2019-04-20,NULL
+8,"Sanj Malhotra",100000.000,2019-06-21,NULL
+9,"Sanjay Joshi",120000.000,2020-06-21,NULL
+10,"Sanjana Sayan",130000.000,2021-06-21,NULL
